@@ -150,41 +150,7 @@ print(me.mission())
 
 ---
 
-## 📊 GitHub Analytics
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KAVIARASU-K&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=KAVIARASU-K&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAVIARASU-K&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=KAVIARASU-K&theme=tokyo-night&hide_border=true&area=true"/>
-
-</div>
-
----
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=KAVIARASU-K&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10"/>
-
-</div>
 
 ---
 
